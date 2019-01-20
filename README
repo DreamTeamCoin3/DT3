@@ -1,19 +1,1 @@
-Algorithm     X11
-Block type     Proof-of-Work
-Coin name     DreamTeamCoin3
-Coin abbreviation     DTC3
-Address letter     D
-Coin unit     Dreams
-Block reward     50 coins
-Block halving     200000 blocks
-Coin supply     24000000 coins
-Premine amount     4000000 coins
 
-Masternode reward     40%
-Masternode amount     2500 coins
-Masternode confirmations     15
-Coinbase maturity     50 blocks
-Target spacing     10 minutes
-Target timespan     10 minutes
-Transaction confirmations     6 blocks
-Last block with reward     6600000
