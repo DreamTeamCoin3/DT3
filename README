@@ -1,9 +1,9 @@
-DREAM TEAM COIN 3 (DTC3)
+DREAM TEAM 3 (DT3)
 
 Algorithm     X11
-Block type     Proof-of-Work
-Coin name     DreamTeamCoin3
-Coin abbreviation     DTC3
+Block type     POW/MN
+Coin name     DreamTeam3
+Coin abbreviation     DT3
 Address letter     D
 Coin unit     Dreams
 Block reward     50 coins
@@ -11,7 +11,7 @@ Block halving     200000 blocks
 Coin supply     24000000 coins
 Premine amount     4000000 coins
 
-Masternode reward     40%
+Masternode reward     50%
 Masternode amount     2500 coins
 Masternode confirmations     15
 Coinbase maturity     50 blocks
