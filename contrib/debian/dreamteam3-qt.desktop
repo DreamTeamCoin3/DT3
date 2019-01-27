@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=DreamTeam3 Core
+Comment=DreamTeam3 P2P Cryptocurrency
+Comment[de]=Verbinde mit dem DreamTeam3 peer-to-peer Netzwerk
+Comment[fr]=DreamTeam3, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=DreamTeam3, eşten eşe kriptografik sanal para birimi
+Exec=dreamteam3-qt %u
+Terminal=false
+Type=Application
+Icon=dreamteam3128
+MimeType=x-scheme-handler/dreamteam3;
+Categories=Office;Finance;
