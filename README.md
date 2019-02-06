@@ -3,7 +3,7 @@ DreamTeam3 Core staging tree 0.12.3
 
 `master:` [![Build Status](https://travis-ci.org/dreamteam3pay/dreamteam3.svg?branch=master)](https://travis-ci.org/dreamteam3pay/dreamteam3) `develop:` [![Build Status](https://travis-ci.org/dreamteam3pay/dreamteam3.svg?branch=develop)](https://travis-ci.org/dreamteam3pay/dreamteam3/branches)
 
-https://www.dreamteam3.org
+https://crypto-dreamteam.com/
 
 
 What is DreamTeam3?
