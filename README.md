@@ -1,8 +1,8 @@
 DreamTeam3 Core staging tree 0.12.3.3
 ===============================
 
-`master:` [![Build Status] (https://github.com/DreamTeamCoin3/DT3/tree/master)
-`develop:` [![Build Status] (https://github.com/DreamTeamCoin3/DT3/branches)
+`master:`[![Build Status](https://github.com/DreamTeamCoin3/DT3/tree/master)
+`develop:`[![Build Status](https://github.com/DreamTeamCoin3/DT3/branches)
 
 https://crypto-dreamteam.com/
 
