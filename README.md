@@ -16,7 +16,7 @@ are carried out collectively by the network. DreamTeam3 Core is the name of the 
 source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the DreamTeam3 Core software, see https://www.dreamteam3.org/get-dreamteam3/.
+the DreamTeam3 Core software, see https://crypto-dreamteam.com/.
 
 
 License
@@ -29,7 +29,7 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/dreamteam3pay/dreamteam3/tags) are created to indicate new official,
+[Tags](https://github.com/DreamTeamCoin3/DT3/tags) are created to indicate new official,
 stable release versions of DreamTeam3 Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -66,7 +66,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[DreamTeam3 Core's Transifex page](https://www.transifex.com/projects/p/dreamteam3/).
+[DreamTeam3 Core's Transifex page](https://www.contact@crypto-dreamteam.com/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
@@ -74,4 +74,4 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-Translators should also follow the [forum](https://www.dreamteam3.org/forum/topic/dreamteam3-worldwide-collaboration.88/).
+Translators should also follow the [forum](https://discord.gg/MDsr4FU).
